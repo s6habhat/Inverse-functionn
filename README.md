@@ -1,0 +1,2 @@
+# Inverse-functionn
+Inverse function
